@@ -1,0 +1,23 @@
+D:\BackUP\area de trabalho\VS\Loja.DLL\bin\Debug\Loja.DLL.dll
+D:\BackUP\area de trabalho\VS\Loja.DLL\bin\Debug\Loja.DLL.pdb
+D:\BackUP\area de trabalho\VS\Loja.DLL\bin\Debug\Loja.DAL.dll
+D:\BackUP\area de trabalho\VS\Loja.DLL\bin\Debug\Loja.DTO.dll
+D:\BackUP\area de trabalho\VS\Loja.DLL\bin\Debug\Loja.DAL.pdb
+D:\BackUP\area de trabalho\VS\Loja.DLL\bin\Debug\Loja.DTO.pdb
+D:\BackUP\area de trabalho\VS\Loja.DLL\obj\Debug\Loja.BLL.csprojAssemblyReference.cache
+D:\BackUP\area de trabalho\VS\Loja.DLL\obj\Debug\Loja.BLL.csproj.CoreCompileInputs.cache
+D:\BackUP\area de trabalho\VS\Loja.DLL\obj\Debug\Loja.BLL.csproj.CopyComplete
+D:\BackUP\area de trabalho\VS\Loja.DLL\obj\Debug\Loja.DLL.dll
+D:\BackUP\area de trabalho\VS\Loja.DLL\obj\Debug\Loja.DLL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DLL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DLL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DAL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DTO.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DAL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DAL.dll.config
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\bin\Debug\Loja.DTO.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\obj\Debug\Loja.BLL.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\obj\Debug\Loja.BLL.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\obj\Debug\Loja.BLL.csproj.CopyComplete
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\obj\Debug\Loja.DLL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DLL\obj\Debug\Loja.DLL.pdb

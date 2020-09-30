@@ -1,0 +1,12 @@
+D:\BackUP\area de trabalho\VS\Loja.DTO\bin\Debug\Loja.DTO.dll
+D:\BackUP\area de trabalho\VS\Loja.DTO\bin\Debug\Loja.DTO.pdb
+D:\BackUP\area de trabalho\VS\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+D:\BackUP\area de trabalho\VS\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+D:\BackUP\area de trabalho\VS\Loja.DTO\obj\Debug\Loja.DTO.dll
+D:\BackUP\area de trabalho\VS\Loja.DTO\obj\Debug\Loja.DTO.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DTO\obj\Debug\Loja.DTO.pdb

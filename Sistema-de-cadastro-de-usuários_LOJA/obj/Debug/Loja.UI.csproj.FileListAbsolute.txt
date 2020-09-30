@@ -1,0 +1,34 @@
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Sistema-de-cadastro-de-usuários_LOJA.exe.config
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Sistema-de-cadastro-de-usuários_LOJA.exe
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Sistema-de-cadastro-de-usuários_LOJA.pdb
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DLL.dll
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DTO.dll
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DLL.pdb
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DTO.pdb
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csprojAssemblyReference.cache
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema_de_cadastro_de_usuários_LOJA.MDIParent1.resources
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema_de_cadastro_de_usuários_LOJA.Properties.Resources.resources
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csproj.GenerateResource.cache
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csproj.CoreCompileInputs.cache
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csproj.CopyComplete
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema-de-cadastro-de-usuários_LOJA.exe
+D:\BackUP\area de trabalho\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema-de-cadastro-de-usuários_LOJA.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema_de_cadastro_de_usuários_LOJA.Cadastro_usuario.resources
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema_de_cadastro_de_usuários_LOJA.MDIParent1.resources
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema_de_cadastro_de_usuários_LOJA.Properties.Resources.resources
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csproj.GenerateResource.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema-de-cadastro-de-usuários_LOJA.exe
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Sistema-de-cadastro-de-usuários_LOJA.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Sistema-de-cadastro-de-usuários_LOJA.exe.config
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Sistema-de-cadastro-de-usuários_LOJA.exe
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Sistema-de-cadastro-de-usuários_LOJA.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DLL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DTO.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DAL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DLL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DTO.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DAL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\bin\Debug\Loja.DAL.dll.config
+C:\Users\wesle\Desktop\GABRIEL\VS\Sistema-de-cadastro-de-usuários_LOJA\obj\Debug\Loja.UI.csproj.CopyComplete

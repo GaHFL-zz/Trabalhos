@@ -1,0 +1,19 @@
+D:\BackUP\area de trabalho\VS\Loja.DAL\bin\Debug\Loja.DAL.dll
+D:\BackUP\area de trabalho\VS\Loja.DAL\bin\Debug\Loja.DAL.pdb
+D:\BackUP\area de trabalho\VS\Loja.DAL\bin\Debug\Loja.DTO.dll
+D:\BackUP\area de trabalho\VS\Loja.DAL\bin\Debug\Loja.DTO.pdb
+D:\BackUP\area de trabalho\VS\Loja.DAL\obj\Debug\Loja.DAL.csprojAssemblyReference.cache
+D:\BackUP\area de trabalho\VS\Loja.DAL\obj\Debug\Loja.DAL.csproj.CoreCompileInputs.cache
+D:\BackUP\area de trabalho\VS\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
+D:\BackUP\area de trabalho\VS\Loja.DAL\obj\Debug\Loja.DAL.dll
+D:\BackUP\area de trabalho\VS\Loja.DAL\obj\Debug\Loja.DAL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\bin\Debug\Loja.DAL.dll.config
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\bin\Debug\Loja.DAL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\bin\Debug\Loja.DAL.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\bin\Debug\Loja.DTO.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\bin\Debug\Loja.DTO.pdb
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\obj\Debug\Loja.DAL.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\obj\Debug\Loja.DAL.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\obj\Debug\Loja.DAL.dll
+C:\Users\wesle\Desktop\GABRIEL\VS\Loja.DAL\obj\Debug\Loja.DAL.pdb

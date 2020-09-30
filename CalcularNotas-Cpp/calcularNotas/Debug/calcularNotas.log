@@ -1,0 +1,3 @@
+﻿  calcularNotas.cpp
+C:\Users\Wesley - Gabriel\source\repos\calcularNotas\calcularNotas\calcularNotas.cpp(37,9): warning C4552:  '>=': o resultado da expressão não é usado
+  calcularNotas.vcxproj -> C:\Users\Wesley - Gabriel\source\repos\calcularNotas\Debug\calcularNotas.exe

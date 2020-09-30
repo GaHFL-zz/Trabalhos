@@ -1,0 +1,5 @@
+﻿  Tela login.cpp
+C:\Users\Wesley - Gabriel\source\repos\Tela login\Tela login\Tela login.cpp(22,20): warning C4018:  '<': incompatibilidade de signed/unsigned
+C:\Users\Wesley - Gabriel\source\repos\Tela login\Tela login\Tela login.cpp(26,18): warning C4552:  '!=': o resultado da expressão não é usado
+C:\Users\Wesley - Gabriel\source\repos\Tela login\Tela login\Tela login.cpp(35,11): warning C4129:  'V': sequência de escape de caractere não reconhecida
+  Tela login.vcxproj -> C:\Users\Wesley - Gabriel\source\repos\Tela login\Debug\Tela login.exe

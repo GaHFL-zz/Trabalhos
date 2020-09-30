@@ -1,0 +1,10 @@
+C:\Users\wesle\Desktop\repos\Sistema_Básico\bin\Debug\Sistema_Básico.exe.config
+C:\Users\wesle\Desktop\repos\Sistema_Básico\bin\Debug\Sistema_Básico.exe
+C:\Users\wesle\Desktop\repos\Sistema_Básico\bin\Debug\Sistema_Básico.pdb
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.Form1.resources
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.Properties.Resources.resources
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.csproj.GenerateResource.cache
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.exe
+C:\Users\wesle\Desktop\repos\Sistema_Básico\obj\Debug\Sistema_Básico.pdb

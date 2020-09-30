@@ -1,0 +1,10 @@
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\bin\Debug\Tratamento_de_erros.exe.config
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\bin\Debug\Tratamento_de_erros.exe
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\bin\Debug\Tratamento_de_erros.pdb
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.Form1.resources
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.Properties.Resources.resources
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.csproj.GenerateResource.cache
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.exe
+C:\Users\wesle\Desktop\repos\Tratamento_de_erros\obj\Debug\Tratamento_de_erros.pdb

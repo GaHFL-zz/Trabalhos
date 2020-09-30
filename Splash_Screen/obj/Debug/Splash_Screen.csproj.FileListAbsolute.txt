@@ -1,0 +1,11 @@
+C:\Users\wesle\Desktop\repos\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+C:\Users\wesle\Desktop\repos\Splash_Screen\bin\Debug\Splash_Screen.exe
+C:\Users\wesle\Desktop\repos\Splash_Screen\bin\Debug\Splash_Screen.pdb
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.AboutBox1.resources
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.Form1.resources
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.cache
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.exe
+C:\Users\wesle\Desktop\repos\Splash_Screen\obj\Debug\Splash_Screen.pdb

@@ -1,0 +1,11 @@
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\netcoreapp2.1\Calculadora-CSharp.deps.json
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\netcoreapp2.1\Calculadora-CSharp.runtimeconfig.json
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\netcoreapp2.1\Calculadora-CSharp.runtimeconfig.dev.json
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\netcoreapp2.1\Calculadora-CSharp.dll
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\netcoreapp2.1\Calculadora-CSharp.pdb
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\netcoreapp2.1\Calculadora-CSharp.csprojAssemblyReference.cache
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\netcoreapp2.1\Calculadora-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\netcoreapp2.1\Calculadora-CSharp.AssemblyInfoInputs.cache
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\netcoreapp2.1\Calculadora-CSharp.AssemblyInfo.cs
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\netcoreapp2.1\Calculadora-CSharp.dll
+C:\Users\Wesley - Gabriel\source\repos\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\netcoreapp2.1\Calculadora-CSharp.pdb

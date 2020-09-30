@@ -1,0 +1,11 @@
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\bin\Debug\netcoreapp2.1\Exercicio1-CSharp.deps.json
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\bin\Debug\netcoreapp2.1\Exercicio1-CSharp.runtimeconfig.json
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\bin\Debug\netcoreapp2.1\Exercicio1-CSharp.runtimeconfig.dev.json
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\bin\Debug\netcoreapp2.1\Exercicio1-CSharp.dll
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\bin\Debug\netcoreapp2.1\Exercicio1-CSharp.pdb
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\obj\Debug\netcoreapp2.1\Exercicio1-CSharp.csprojAssemblyReference.cache
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\obj\Debug\netcoreapp2.1\Exercicio1-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\obj\Debug\netcoreapp2.1\Exercicio1-CSharp.AssemblyInfoInputs.cache
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\obj\Debug\netcoreapp2.1\Exercicio1-CSharp.AssemblyInfo.cs
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\obj\Debug\netcoreapp2.1\Exercicio1-CSharp.dll
+C:\Users\Wesley - Gabriel\source\repos\Exercicio1-CSharp\Exercicio1-CSharp\obj\Debug\netcoreapp2.1\Exercicio1-CSharp.pdb

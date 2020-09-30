@@ -1,0 +1,10 @@
+C:\Users\wesle\Desktop\repos\Array\bin\Debug\Array.exe.config
+C:\Users\wesle\Desktop\repos\Array\bin\Debug\Array.exe
+C:\Users\wesle\Desktop\repos\Array\bin\Debug\Array.pdb
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.Form1.resources
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.Properties.Resources.resources
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.csproj.GenerateResource.cache
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.exe
+C:\Users\wesle\Desktop\repos\Array\obj\Debug\Array.pdb
